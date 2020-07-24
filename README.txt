@@ -1,4 +1,4 @@
-Robot Arm - Lumezzane by Vincenzo Antedoro
+## Robot Arm - Lumezzane by Vincenzo Antedoro
 released 14-02-2013 
 
 Robot Arm - Lumezzane is an open-source robot arm implemented for teaching
@@ -11,12 +11,12 @@ For more information, see the website at: http://antedoro.blogspot.com/
 
 To contact the author, go to: http://antedoro.blogspot.it/p/contatti_04.html
 
-FILES
+## FILES
 Most files are generated with commercial 3D CAD software SolidWorks 2010.
 All files will be converted to more open formats. Of each drawing will also 
 released the pdf file. The electronics will be published later.
 
-CREDITS
+## CREDITS
 Robot Arm - Lumezzane is an open source project, supported by students of
 I.I.S."P. Levi" Sarezzo (BS) - Italy.
 
